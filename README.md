@@ -7,7 +7,7 @@
     <img src="Figure/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">GAN-Stability</h1>
+  <h1 align="center">Fortifying Stability Prediction</h1>
 
   <p align="center">
     Fortifying Stability Prediction in Smart Grids: A Defense Framework Against Adversarial Attacks
@@ -31,7 +31,7 @@ The increasing global energy demand, coupled with the growing adoption of renewa
 To execute the attacks or to deploy the framework, start by cloning the repository:
 
 ```bash
-git clone https://github.com/emadef1/GAN-based-Stability-prediction.git
+git clone https://github.com/emadef1/Fortifying-Stability-Prediction-.git
 cd GAN-based-Stability-prediction
 ```
 <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work..</sup>
