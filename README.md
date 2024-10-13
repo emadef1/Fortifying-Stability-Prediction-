@@ -32,7 +32,6 @@ To execute the attacks or to deploy the framework, start by cloning the reposito
 
 ```bash
 git clone https://github.com/emadef1/Fortifying-Stability-Prediction-.git
-cd GAN-based-Stability-prediction
 ```
 <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work..</sup>
 
