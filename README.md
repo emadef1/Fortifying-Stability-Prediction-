@@ -15,7 +15,7 @@
     <a href="https://github.com/emadef1/Fortifying-Stability-Prediction-/tree/main"><strong>Paper in progress »</strong></a>
     <br />
     <br />
-    <a href="">Emad Efatinasab, Nahal Azadi, Gian Antonio Susto, Mirco Rampazzo</a>
+    <a href="">Emad Efatinasab, Nahal Azadi, Gian Antonio Susto, Chuadhry Mujeeb Ahmed, Mirco Rampazzo</a>
   </p>
 </div>
 
