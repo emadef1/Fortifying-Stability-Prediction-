@@ -12,7 +12,7 @@
   <p align="center">
     Fortifying Stability Prediction in Smart Grids: A Defense Framework Against Adversarial Attacks
     <br />
-    <a href="https://github.com/emadef1/Fortifying-Stability-Prediction-/tree/main"><strong>Paper in progress »</strong></a>
+    <a href="https://github.com/emadef1/Fortifying-Stability-Prediction-/tree/main"><strong>Paper accepted (link will be availble shortly) »</strong></a>
     <br />
     <br />
     <a href="">Emad Efatinasab, Nahal Azadi, Gian Antonio Susto, Chuadhry Mujeeb Ahmed, Mirco Rampazzo</a>
