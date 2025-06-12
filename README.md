@@ -10,7 +10,7 @@
   <h1 align="center">Fortifying Stability Prediction</h1>
 
   <p align="center">
-    Fortifying Stability Prediction in Smart Grids: A Defense Framework Against Adversarial Attacks
+    Fortifying Smart Grid Stability: Defending Against Adversarial Attacks and Measurement Anomalies
     <br />
     <a href="https://github.com/emadef1/Fortifying-Stability-Prediction-/tree/main"><strong>Paper accepted (link will be availble shortly) »</strong></a>
     <br />
