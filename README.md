@@ -12,7 +12,7 @@
   <p align="center">
     Fortifying Smart Grid Stability: Defending Against Adversarial Attacks and Measurement Anomalies
     <br />
-    <a href="https://www.sciencedirect.com/science/article/pii/S235246772500181X"><strong>Paper accepted (link will be availble shortly) »</strong></a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S235246772500181X"><strong>Paper Availble  »</strong></a>
     <br />
     <br />
     <a href="">Emad Efatinasab, Nahal Azadi, Gian Antonio Susto, Chuadhry Mujeeb Ahmed, Mirco Rampazzo</a>
